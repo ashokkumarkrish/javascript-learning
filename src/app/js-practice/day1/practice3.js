@@ -74,3 +74,4 @@ let defaultCity = "Chennai";
 
 let city = userCity || defaultCity;
 console.log(city); // Chennai  ← uses default because userCity is null
+
